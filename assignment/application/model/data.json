@@ -1,0 +1,53 @@
+{
+    "pageTextData": [
+		{
+			"title": "Agua Montana",
+			"subTitle": "Spain's Leading Mountain Water",		
+			"description": "Brough to you by Coca Cola, Agua Montana is Spain's leading mountain water brand, now with brand new fruity flavours in your favourite can form."
+		},
+		{
+			"title": "Agua Montana",
+			"subTitle": "The Original",		
+			"description": "The Original Agua Montana"
+		},
+		{
+			"title": "Agua Limon",
+			"subTitle": "The Lemon One",		
+			"description": "Agua Montana but Lemon"
+		},
+		{
+			"title": "Agua Fresa",
+			"subTitle": "The Strawberry One",		
+			"description": "Agua Montana but Strawberry"
+		},
+		{
+			"x3dModelTitle": "Agua Montana X3D Model",
+			"x3dCreationMethod": "This X3D model of the Agua Montana Can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Agua Montana",
+			"subTitle": "Agua Montana Subtitle",		
+			"description": "Agua Montana Text..."
+		},
+		{
+			"x3dModelTitle": "Agua Limon X3D Model",
+			"x3dCreationMethod": "This X3D model of the Agua Limon Can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Agua Limon",
+			"subTitle": "Agua Limon Subtitle",		
+			"description": "Agua Limon Text..."
+		},
+        {
+			"x3dModelTitle": "Agua Fresa X3D Model",
+			"x3dCreationMethod": "This X3D model of the Agua Fresa Can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Agua Fresa",
+			"subTitle": "Agua Fresa Subtitle",		
+			"description": "Agua Fresa Text..."
+		},
+		{
+			"galleryTitle": "My 3D Images",
+			"galleryDescription": "These 3D images of an Agua Montana, Agua Limon and Agua Fresa Cans have been rendered in 3ds max."
+		},
+		{
+			"CameraTitle": "Camera Views",
+			"CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+		}
+	]
+}
